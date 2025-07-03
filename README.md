@@ -9,7 +9,7 @@ This app is built upon ARKit developed by Apple. You will need Macbook as develo
 2. Clone this repo and open it in Xcode/Xcode-beta.
     ```
     git clone git@github.com:YuanzhuZhan/VIO-iPhone.git -b udp
-    '''
+    ```
 
 3. Clone another repo for relaying VIO data from iPhone as rostopic.
     ```
